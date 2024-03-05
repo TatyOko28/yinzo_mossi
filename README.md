@@ -1,1 +1,3 @@
 This project was developed to highlight my skills as a web developer. It focuses on creating a single page in HTML and CSS, bringing together various sections. The objective is to demonstrate my mastery in the design of an attractive and functional user interface, highlighting a creative and responsive approach. Explore the different sections of this page to discover the extent of my web development skills.
+
+Follow this link to see what this project looks like: https://mak-developer.netlify.app/
